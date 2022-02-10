@@ -251,7 +251,7 @@ summary(gam_mod)
 plot(gam_mod)
 ```
 
-- summarize here:
+- summarize here: The spline model is the best fit since as we can see from the summary, the R-squared of the linear model is 0.01756, which is poor, and the R-squared of spline model is 0.67, which is fairly good. However, since the R-squared of spline model is fairly high, there may have an overfitting problem.
 
 # Delivarables
 
